@@ -22,7 +22,5 @@ I'm a Full Stack Developer with 20+ years experience in building the Web. I've b
 </a>
 
 ### Author & Writer
-
 * In 2018 i won the critics award for the VII edition of the literary prize "Città di Ladispoli".
-
 * In 2017 i published my first cyberpunk novel, [Rotten](https://www.amazon.it/dp/B01MRAMS7J/ref=cm_sw_r_cp_ep_dp_QSINBb262M7ZA "Rotten"), available on all Amazon platforms.
