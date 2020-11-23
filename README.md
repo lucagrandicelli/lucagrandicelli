@@ -1,13 +1,13 @@
 # Luca Grandicelli
 
-### WordPress Developer
+### WordPress Engineer
 
-I'm a developer with 20+ years experience in building the Web. I've been working in the IT industry for over two decades and been a Wordpress engineer for almost ten.
+I'm a web developer with 20+ years experience on the field. I've been working in the IT industry for over two decades and as a WordPress Engineer for more than ten.
 
 ### IT Skills
 *   **WordPress**: Theme/Plugin Development, WordPress Optimization, WordPress Core & Translator Contributor
 *   **Backend**: PHP 7.x, Mysql 5.x/Redis 5.x, Codeigniter, Python
-*   **Frontend**: HTML5/CSS3, Bootstrap 3.x/4.x, Javascript ES2018/ES9, jQuery, Vue.js
+*   **Frontend**: HTML5/CSS3, Bootstrap 3.x/4.x, Javascript ES2018/ES9, jQuery
 *   **Theory & Tools**: MVC Architecture + OOP Development, Data Structures, Git/Github/SVN, Unit Tests.
 *   **Extra Skills**: Adobe Photoshop / Illustrator, Google Tag Manager/ Analytics / Search Console, SEO, SEM, SMM, Web Marketing Fundamentals
 
