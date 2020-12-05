@@ -6,7 +6,7 @@ I'm a web developer with 20+ years experience on the field. I've been working in
 
 ### IT Skills
 *   **WordPress**: Theme/Plugin Development, WordPress Optimization, WordPress Core & Translator Contributor
-*   **Backend**: PHP 7.x, Mysql 5.x/Redis 5.x, Codeigniter, Python
+*   **Backend**: PHP 7/8, Mysql 5.x/Redis 5.x, Codeigniter 3/4, Python
 *   **Frontend**: HTML5/CSS3, Bootstrap 3.x/4.x, Javascript ES2018/ES9, jQuery
 *   **Theory & Tools**: MVC Architecture + OOP Development, Data Structures, Git/Github/SVN, Unit Tests.
 *   **Extra Skills**: Adobe Photoshop / Illustrator, Google Tag Manager/ Analytics / Search Console, SEO, SEM, SMM, Web Marketing Fundamentals
