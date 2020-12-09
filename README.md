@@ -4,6 +4,8 @@
 
 I'm a Full Stack Web Developer with 20+ years experience on the field. I've been working in the IT industry for over two decades and as a WordPress Engineer for more than ten.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucagrandicelli&count_private=true&show_icons=true&theme=radical)
+
 ### IT Skills
 *   **WordPress**: Theme/Plugin Development, WordPress Optimization, WordPress Core & Translator Contributor
 *   **Backend**: PHP 7/8, Mysql 5.x/Redis 5.x, Codeigniter 3/4, Python
