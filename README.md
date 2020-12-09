@@ -2,7 +2,7 @@
 
 ### WordPress Engineer
 
-I'm a web developer with 20+ years experience on the field. I've been working in the IT industry for over two decades and as a WordPress Engineer for more than ten.
+I'm a Full Stack Web Developer with 20+ years experience on the field. I've been working in the IT industry for over two decades and as a WordPress Engineer for more than ten.
 
 ### IT Skills
 *   **WordPress**: Theme/Plugin Development, WordPress Optimization, WordPress Core & Translator Contributor
