@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer & WordPress Engineer
 
-I'm a Full Stack Web Developer with 20+ years experience on the field. I've been working in the IT industry for over two decades and as a WordPress Engineer for more than ten.
+I'm a full stack developer with more than 20 years experience in the IT field. Proudly born in 1979.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucagrandicelli&count_private=true&show_icons=true&theme=radical)
 
