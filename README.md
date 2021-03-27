@@ -1,17 +1,18 @@
 # Luca Grandicelli
 
-### Full Stack Web Developer & WordPress Engineer
+### Full Stack Developer & WordPress Expert
 
-I'm a full stack developer with more than 20 years experience in the IT field. Proudly born in 1979.
+I'm a Full Stack Developer with more than 20 years experience in the IT field. Proudly born in 1979.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucagrandicelli&count_private=true&show_icons=true&theme=radical)
 
 ### IT Skills
-*   **WordPress**: Theme/Plugin Development, WordPress Optimization, WordPress Core & Translator Contributor
-*   **Backend**: PHP 7/8, Mysql 5.x/Redis 5.x, Codeigniter 3/4, Python
-*   **Frontend**: HTML5/CSS3, Bootstrap 3.x/4.x, Javascript ES2018/ES9, jQuery
-*   **Theory & Tools**: MVC Architecture + OOP Development, Data Structures, Git/Github/SVN, Unit Tests.
-*   **Extra Skills**: Adobe Photoshop / Illustrator, Google Tag Manager/ Analytics / Search Console, SEO, SEM, SMM, Web Marketing Fundamentals
+*   **WordPress**: Theme/Plugin Development, WordPress Optimization, WordPress Core & Translator Contributor.
+*   **Backend**: PHP 7/8.x, Laravel 8.x, Laravel Ecosystem (Sail/Breeze/Jetstream/Socialize), CodeIgniter 3, Mysql/MariaDB, Mongo DB/Redis and a little bit of Python 3.x.
+*   **Frontend**: HTML5/CSS3, JavaScript ES2018/ES9, Typescript, Vue 3/Vuex/Vue Router/Vue Loader/Vue cli, Tailwind CSS, Bootstrap CSS Framework Legacy, SASS/SCSS, jQuery 3.x, REST API, Axios.
+*   **Theory & Tools**: MVC Architecture + OOP Development, Data Structures, Git/Github/SVN, Docker.
+*   **SEO / SEM & Social Web Marketing**: Basic & medium SEO techniques, Google Search Console, Google Analytics, Google Tag Manager, Google Merchant Center with E-commerce Product Syncing, Google My Business Facebook Ads, Facebook Business Suite.
+*   **Extra Skills**: Adobe Photoshop/Illustrator, Video & Sound Editing
 
 *View my complete resume on [lucagrandicelli.it](https://www.lucagrandicelli.it)*
 
