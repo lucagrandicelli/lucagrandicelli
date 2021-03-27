@@ -1,6 +1,6 @@
 # Luca Grandicelli
 
-### WordPress Engineer
+### Full Stack Web Developer & WordPress Engineer
 
 I'm a Full Stack Web Developer with 20+ years experience on the field. I've been working in the IT industry for over two decades and as a WordPress Engineer for more than ten.
 
