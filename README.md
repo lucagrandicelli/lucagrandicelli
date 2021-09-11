@@ -14,8 +14,6 @@ I'm a Full Stack Developer with more than 20 years experience in the IT field. P
 *   **SEO / SEM & Social Web Marketing**: Basic & medium SEO techniques, Google Search Console, Google Analytics, Google Tag Manager, Google Merchant Center with E-commerce Product Syncing, Google My Business Facebook Ads, Facebook Business Suite.
 *   **Extra Skills**: Adobe Photoshop/Illustrator, Video & Sound Editing
 
-*View my complete resume on [lucagrandicelli.it](https://www.lucagrandicelli.it)*
-
 ### **Latest 3 articles from DEV.to**
 
 *   [How to clone a portion of an object using the power of IIFE, arrow functions, destructuring assignment and property shorthands.](https://dev.to/lucagrandicelli/how-to-clone-a-portion-of-an-object-using-the-power-of-iife-arrow-functions-destructuring-assignment-and-property-shorthands-379f "How to clone a portion of an object using the power of IIFE, arrow functions, destructuring assignment and property shorthands.")
