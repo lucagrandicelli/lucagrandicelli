@@ -1,6 +1,6 @@
 # Luca Grandicelli
 
-### Full Stack Developer & WordPress Expert
+### Digital Project Manager & Full Stack Developer
 
 I'm a Full Stack Developer with more than 20 years experience in the IT field. Proudly born in 1979.
 
